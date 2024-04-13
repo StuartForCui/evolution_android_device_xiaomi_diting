@@ -11,7 +11,7 @@ $(call inherit-product, device/xiaomi/diting/device.mk)
 TARGET_DISABLE_EPPE := true
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_diting
+PRODUCT_NAME := evolution_diting
 PRODUCT_DEVICE := diting
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Xiaomi
