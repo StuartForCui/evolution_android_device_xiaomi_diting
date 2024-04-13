@@ -21,4 +21,4 @@ Front camera | 20MP in-display
 
 ## Device picture
 
-![Xiaomi 12T Pro]([https://i02.appmifile.com/638_operator_sg/21/04/2023/96bd043ea8810ff590a07ef10ff3508f.png "POCO F5 Pro in black and white](https://i02.appmifile.com/838_operator_sg/18/11/2022/d7ab9e5389d7c7cf3d887ff5c388cba4.png?f=webp)")
+![POCO F5 Pro](https://i02.appmifile.com/838_operator_sg/18/11/2022/d7ab9e5389d7c7cf3d887ff5c388cba4.png?f=webp")
