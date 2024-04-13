@@ -5,17 +5,17 @@ Device configuration for XIaomi 12TPro/ Xiaomi Redmi K50Ultra
 
 The Xiaomi12T Pro / Xiaomi Redmi K50Ultra(codenamed _"diting"_) is a high-end smartphone from Xiaomi.
 
-It was released in China in January 2023 and globally in May 2023.
+It was released in China in August 2022 and globally in October 2022.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 Platform | Snapdragon® 8+ Gen 1 (SM8475)
-RAM & Storage | 8GB/128GB, 8GB/256GB, 12GB/256GB, 12GB/512GB, 12GB/512GB, 16GB/512GB, 16GB/1024GB (LPDDR5 RAM, UFS 3.1 storage)
+RAM & Storage | 8GB/128GB, 8GB/256GB, 12GB/256GB, 12GB/512GB (LPDDR5 RAM, UFS 3.1 storage)
 Shipped Android Version | 12
 Battery | Non-removable, 5000 mAh
-Display | 6.67″, 120Hz, 2800x1220 (526 ppi)
+Display | 6.67″, 120Hz, 2712x1220 (446 ppi)
 Rear camera | 100MP wide angle, 8MP ultra wide-angle, 2MP macro
 Front camera | 20MP in-display
 
