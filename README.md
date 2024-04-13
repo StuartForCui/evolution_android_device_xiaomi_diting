@@ -20,5 +20,6 @@ Rear camera | 100MP wide angle, 8MP ultra wide-angle, 2MP macro
 Front camera | 20MP in-display
 
 ## Device picture
+xiaomi12tpro
 
-![POCO F5 Pro](https://i02.appmifile.com/838_operator_sg/18/11/2022/d7ab9e5389d7c7cf3d887ff5c388cba4.png?f=webp")
+![Xiaomi12TPro](https://i02.appmifile.com/838_operator_sg/18/11/2022/d7ab9e5389d7c7cf3d887ff5c388cba4.png?f=webp")
