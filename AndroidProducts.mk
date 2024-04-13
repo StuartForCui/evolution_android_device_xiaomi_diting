@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_diting.mk
+    $(LOCAL_DIR)/evolution_diting.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_diting-user \
-    aosp_diting-userdebug \
-    aosp_diting-eng
+    evolution_diting-user \
+    evolution_diting-userdebug \
+    evolution_diting-eng
