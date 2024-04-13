@@ -9,7 +9,7 @@ $(call inherit-product, device/xiaomi/diting/device.mk)
 
 # Inherit from common lineage configuration
 TARGET_DISABLE_EPPE := true
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 PRODUCT_NAME := aosp_diting
 PRODUCT_DEVICE := diting
